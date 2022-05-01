@@ -12,15 +12,15 @@ modeling, interpretation), Statistics, Hypothesis testing, OOP, Excel,Git, Cloud
 - **Web Technologies**: Python Flask, HTML, Bootstrap, Docker
 
 
-🌱 I’m currently learning 
--Post Graduation Diploma Program in Big Data Analytics from Center for Development in Advanced Computing (CDAC) ACTS Delhi
+🌱 I’m currently learning ...
+- Post Graduation Diploma Program in Big Data Analytics from Center for Development in Advanced Computing (CDAC) ACTS Delhi
 
 
-👯 I’m looking to collaborate on 
--Machine Learning, Deep Learning, Big Data Technologies, etc.
+👯 I’m looking to collaborate on ...
+- Machine Learning, Deep Learning, Big Data Technologies, etc.
 
 
-📫 How to reach me: 
+📫 How to reach me: ...
 - LinkedIN: lnkedin.com/in/pushpak-kalokhe
 - Twitter: twitter.com/pushpakrk15
 
