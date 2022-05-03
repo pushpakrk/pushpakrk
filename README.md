@@ -5,10 +5,10 @@
 - **Operating Systems**: Windows, Linux
 - **Database Technologies**: MySQL, MongoDB
 - **Data Visualization**: Power BI, Tableau
-- **Big Data & Machine Learning**: Spark, Hadoop, Hive, HBase, Deep Learning, Python (eg. scikit-learn, TensorFlow, Keras,
-numpy, pandas, matplotlib)
+- **Big Data**: Spark, Hadoop, HDFS, Hive, HBase, MapReduce, Kafka
+- **Machine Learning**: Liner Regression, Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering(K-Means, Hierarchal), Stochastic Gradient Descent (SGD), Extreme Gradient Boosting (XGBoost), Deep Learning (CNN, ANN) using TensorFlow (Keras)
 - **Data Science & Miscellaneous Technologies**: A/B testing, ETL, Data science pipeline (cleansing, wrangling,visualization,
-modeling, interpretation), Statistics, Hypothesis testing, OOP, Excel,Git, Cloud technology
+modeling, interpretation), Statistics, Hypothesis testing, OOP, Excel, Git, Cloud technology
 - **Web Technologies**: Python Flask, HTML, Bootstrap, Docker
 
 
