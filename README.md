@@ -1,6 +1,6 @@
 ### Hello World! 👋 I’am Pushpak Kalokhe
 
-😍 I'am interested in...
+😍 Skills...
 - **Programming Languages**: Python, Java
 - **Database**: SQL, MySQL, MongoDB, Cassandra  
 - **Big Data**: Hadoop, Hive, PySpark, Apache Kafka  
