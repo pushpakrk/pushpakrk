@@ -1,19 +1,16 @@
 ### Hello World! 👋 I’am Pushpak Kalokhe
 
 😍 I'am interested in...
-- **Programming Languages**: Python, R, Core Java, Scala
-- **Operating Systems**: Windows, Linux
-- **Database Technologies**: MySQL, MongoDB
-- **Data Visualization**: Power BI, Tableau
-- **Big Data**: Spark, Hadoop, HDFS, Hive, HBase, MapReduce, Kafka
-- **Machine Learning**: Liner Regression, Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Clustering(K-Means, Hierarchal), Stochastic Gradient Descent (SGD), Extreme Gradient Boosting (XGBoost), Deep Learning (CNN, ANN) using TensorFlow (Keras)
-- **Data Science & Miscellaneous Technologies**: A/B testing, ETL, Data science pipeline (cleansing, wrangling,visualization,
-modeling, interpretation), Statistics, Hypothesis testing, OOP, Excel, Git, Cloud technology
-- **Web Technologies**: Python Flask, HTML, Bootstrap, Docker
+- **Programming Languages**: Python, Java
+- **Database**: SQL, MySQL, MongoDB, Cassandra  
+- **Big Data**: Hadoop, Hive, PySpark, Apache Kafka  
+- **Cloud Technologies**: GCP, AWS  
+- **Data Engineering Tools**: Apache Airflow, Snowflake, BigQuery  
+- **Other**: Linux, Shell Scripting, Docker, Kubernetes, Pandas, Numpy, Matplotlib, PowerBI, Git, Team Oriented, Flexibility, Adaptability
 
 
 👯 I’m looking to collaborate on ...
-- Machine Learning, Deep Learning, Big Data Technologies, etc.
+- Big Data Technologies, Machine Learning, Deep Learning, etc.
 
 
 📫 How to reach me: ...
