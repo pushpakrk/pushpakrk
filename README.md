@@ -9,6 +9,7 @@
 - **Orchestration:** Airflow, Kubernetes
 - **Familiar:** Shell Scripting, PowerBI, Git
 
+--------
 
 👯 I’m looking to collaborate on ...
 - Big Data Technologies, Machine Learning, Deep Learning, etc.
@@ -16,7 +17,7 @@
 
 📫 How to reach me: ...
 - LinkedIN: lnkedin.com/in/pushpak-kalokhe
-- Twitter: twitter.com/pushpakrk15
+- Gmail: kalokhe.pushpak28@gmail.com
 
 <!--
 **pushpakrk/pushpakrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
