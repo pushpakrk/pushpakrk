@@ -1,12 +1,13 @@
 ### Hello World! 👋 I’am Pushpak Kalokhe
 
 😍 Skills...
-- **Programming Languages**: Python, Java
-- **Database**: SQL, MySQL, MongoDB, Cassandra  
-- **Big Data**: Hadoop, Hive, PySpark, Apache Kafka  
-- **Cloud Technologies**: GCP, AWS  
-- **Data Engineering Tools**: Apache Airflow, Snowflake, BigQuery  
-- **Other**: Linux, Shell Scripting, Docker, Kubernetes, Pandas, Numpy, Matplotlib, PowerBI, Git, Team Oriented, Flexibility, Adaptability
+- **Programming Languages:** Python, SQL, Java, Linux
+- **Big Data Technologies:** Spark, PySpark, Spark SQL, Kubernetes, Hadoop, Hive
+- **Streaming Technology:** Kafka, Spark structured streaming
+- **Cloud computing:** Amazon S3, AWS Glue, AWS EMR, AWS Redshift, ADF, Databricks, ADLS
+- **Data Engineering Tools:** Azure DevOps, Data Modelling, ETL/ELT data Pipeline, Snowflake
+- **Orchestration:** Airflow, Kubernetes
+- **Familiar:** Shell Scripting, PowerBI, Git
 
 
 👯 I’m looking to collaborate on ...
