@@ -12,7 +12,7 @@
 --------
 
 👯 I’m looking to collaborate on ...
-- Big Data Technologies, Machine Learning, Deep Learning, etc.
+- Data Engineering, Big Data Technologies, etc.
 
 
 📫 How to reach me: ...
